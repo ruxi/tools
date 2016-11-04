@@ -11,6 +11,7 @@ method1:
     pip install -e git+https://github.com/ruxi/tools.git
  
 method2:
+
     git clone https://github.com/ruxi/tools.git
     cd tools
     python setup.py install
