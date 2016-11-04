@@ -1,0 +1,5 @@
+#update pypi
+rm -r dist                  # remove old source files
+python setup.py sdist       # make source distribution
+python setup.py bdist_wheel # make build distribution with *.whl file
+twine upload dist/* #       pip install twine

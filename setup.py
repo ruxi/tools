@@ -33,7 +33,7 @@ keywords='ruxi tools ruxitools xydb intermediate data containers',
 # setup   
 setup(
       name='ruxitools'
-    , version="0.2.6"
+    , version="0.2.7"
     , description="Misc general use functions. XyDB: container fo intermediate data. "
     , url="http://github.com/ruxi/tools"
     , author="ruxi"
