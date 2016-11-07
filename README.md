@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/ruxi/tools.png)](https://travis-ci.org/ruxi/tools)[![Test coverage](https://coveralls.io/repos/ruxi/tools/badge.svg?branch=master&service=github)](https://coveralls.io/r/ruxi/tools)
+[![Build Status](https://travis-ci.org/ruxi/tools.png)](https://travis-ci.org/ruxi/tools)
+[![Coverage Status](https://coveralls.io/repos/github/ruxi/tools/badge.svg?branch=master)](https://coveralls.io/github/ruxi/tools?branch=master)
 
 # ruxitools 
 
