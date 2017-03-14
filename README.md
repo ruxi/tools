@@ -9,7 +9,7 @@ Miscellaneous tools.
 
 method1:
     
-    pip install -e git+https://github.com/ruxi/tools.git
+    pip install -e git+https://github.com/ruxi/tools.git@master#egg=ruxitools
  
 method2:
 
